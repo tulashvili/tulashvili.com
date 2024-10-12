@@ -1,0 +1,22 @@
+############# Russian navigation ##############
+
+# main menu
+[[main]]
+name = "Главная"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Техническое"
+url = "/tech"
+weight = 3
+
+[[main]]
+name = "Закладки"
+url = "/bookmarks"
+weight = 4
+
+[[main]]
+name = "Мысли"
+url = "/thoughts"
+weight = 2

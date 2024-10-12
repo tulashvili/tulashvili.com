@@ -1,0 +1,20 @@
+# main menu
+[[main]]
+name = "Main"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Tech"
+url = "/tech"
+weight = 3
+
+[[main]]
+name = "Bookmarks"
+url = "/bookmarks"
+weight = 4
+
+[[main]]
+name = "Thoughts"
+url = "/thoughts"
+weight = 2
